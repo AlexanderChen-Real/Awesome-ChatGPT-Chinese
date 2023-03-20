@@ -336,13 +336,15 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 
 ## 关于我
-YUAN哥，哈工大毕业，计算机博士在读，研究方向：人工智能，机器学习与物联网
+YUAN哥，哈工大毕业，计算机研究生在读，研究方向：人工智能，机器学习与物联网
+
 v:
 
 <img src="Picture/Yuanvip.jpeg" width="15%" height="15%" /> 
 
 # ⚠️声明
 以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
+
 v: 
 
 <img src="Picture/Yuanvip.jpeg" width="15%" height="15%" /> 
