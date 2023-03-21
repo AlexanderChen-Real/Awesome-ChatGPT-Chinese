@@ -17,9 +17,9 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 | 二维码加群                                        | 公众号（回复"交流群"）   | 加入星球(更多优质内容) | ChatGPT 众筹计划 （扫码备注众筹）            
 
-|----------------------------------------------| ----  | ----  | ----  |---------------------------------------------|
+|-------------------------------------|------------------------------| ---------------------------------|-------------------------------|--------------------------------|
 
-| <img src="Picture/Chat8.jpeg" width="200" /> | <img src="Picture/qrcode_MLIOT.jpg" width="200"/> | <img src="Picture/训练营优惠券.jpeg" width="200" /> | <img src="Picture/Yuanvip.jpeg" width="200" /> | 
+| <img src="Picture/Chat8.jpeg" width="200" /> | <img src="Picture/qrcode_MLIOT.jpg" width="100"/> | <img src="Picture/训练营优惠券.jpeg" width="150" /> | <img src="Picture/Yuanvip.jpeg" width="200" /> | 
 
 [//]: # (| 二维码加群                                        | 机器学习与物联网公众号（回复"交流群"）                              | 拉你入群&#40;备注github&#41;                            )
 
