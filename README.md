@@ -1,4 +1,4 @@
-<p align="center"><h1>🧠 Asw</h1></p>
+<p align="center"><h1>🧠 Awesome ChatGPT Chinese</h1></p>
 
 ChatGPT工具和资料汇总学习，持续更新......  
 为了帮助广大的中文开发者和学习者更好地理解和运用OpenAI的ChatGPT技术而创建的。我们会在这个仓库中持续更新有关ChatGPT的工具介绍，中文资料，包括但不限于工具使用教程、资料，论文、应用实例和ChatGPT社区等。
@@ -21,9 +21,9 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 [//]: # (| <img src="Picture/Chat8.jpeg" width="300" /> | <img src="Picture/Yuanvip.jpeg" width="200"/> | <img src="Picture/ChatGPT训练营.jpeg" width="300" /> | <img src="Picture/训练营优惠券.jpeg" width="300" /> | <img src="Picture/Yuanvip.jpeg" width="300" /> | )
 
-| 二维码加群                                        | 拉你入群(备注github) 
-|----------------------------------------------| ----  | 
-| <img src="Picture/Chat8.jpeg" width="300" /> | <img src="Picture/Yuanvip.jpeg" width="200"/> |
+| 二维码加群                                        |  机器学习与物联网公众号（回复"交流群"）   | 拉你入群(备注github)                            
+|----------------------------------------------|-----------------------------------------------|---------------------------------------------------| 
+| <img src="Picture/Chat8.jpeg" width="250" /> | <img src="Picture/qrcode_MLIOT.jpg" width="200"/> | <img src="Picture/Yuanvip.jpeg" width="200"/> |
 
 
 ## ChatGPT全面工具箱：在任何地方使用 ChatGPT
