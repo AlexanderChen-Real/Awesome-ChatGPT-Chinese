@@ -15,15 +15,15 @@ ChatGPT工具和资料汇总学习，持续更新......
 【2】ChatGPT Plus的好处不必多说了，但因其高昂的费用而未被广泛采用。为了解决这个问题，我们正在考虑众筹ChatGPT Plus，提供三个计划A、B、C，每人分别为49、32、26元/月。这将降低每个账号每月的成本，并为关注AI发展的朋友提供低成本体验ChatGPT Plus的机会。参与方式请扫下面👇🏻众筹计划的二维码，备注众筹，拉你进众筹群。
 
 
-| 二维码加群                                       | 公众号（回复"交流群"）                                      | 加入星球(更多优质内容)                                  | ChatGPT 众筹计划 （扫码备注众筹）                          
-|---------------------------------------------|---------------------------------------------------|-----------------------------------------------|------------------------------------------------|
-| <img src="Picture/Chat8.jpg" width="300" /> | <img src="Picture/qrcode_MLIOT.jpg" width="200"/> | <img src="Picture/训练营优惠券.jpeg" width="250" /> | <img src="Picture/YuanVip.jpeg" width="200" /> | 
+| 二维码加群                                       | 公众号（回复"交流群"）                                      | 加入星球(更多优质内容)                                  | ChatGPT 众筹计划 （扫码备注众筹）                         
+|---------------------------------------------|---------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| <img src="Picture/Chat8.jpg" width="300" /> | <img src="Picture/qrcode_MLIOT.jpg" width="200"/> | <img src="Picture/训练营优惠券.jpeg" width="250" /> | <img src="Picture/Yuanvip.png" width="200" /> | 
 
 [//]: # (| 二维码加群                                        | 机器学习与物联网公众号（回复"交流群"）                              | 拉你入群&#40;备注github&#41;                            )
 
 [//]: # (|----------------------------------------------|---------------------------------------------------|---------------------------------------------------| )
 
-[//]: # (| <img src="Picture/Chat8.jpeg" width="250" /> | <img src="Picture/qrcode_MLIOT.jpg" width="250"/> | <img src="Picture/YuanVip.jpeg" width="200"/> |)
+[//]: # (| <img src="Picture/Chat8.jpeg" width="250" /> | <img src="Picture/qrcode_MLIOT.jpg" width="250"/> | <img src="Picture/Yuan.jpeg" width="200"/> |)
 
 ## ChatGPT全面工具箱：在任何地方使用 ChatGPT
 
@@ -327,7 +327,7 @@ ChatGPT工具和资料汇总学习，持续更新......
 ## 交流共享
 群满加我微信(备注github-ChatGPT)
 
-<img src="Picture/YuanVip.jpeg" width="15%" height="15%" /> 
+<img src="Picture/Yuan.jpeg" width="15%" height="15%" /> 
 
 创作不易，多少是一份心意，感谢老板随意赏~  
 
@@ -339,12 +339,12 @@ YUAN哥，哈工大毕业，计算机研究生在读，研究方向：人工智�
 
 v:
 
-<img src="Picture/YuanVip.jpeg" width="15%" height="15%" /> 
+<img src="Picture/Yuan.jpeg" width="15%" height="15%" /> 
 
 # ⚠️声明
 以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
 
 v: 
 
-<img src="Picture/YuanVip.jpeg" width="15%" height="15%" /> 
+<img src="Picture/Yuan.jpeg" width="15%" height="15%" /> 
 
