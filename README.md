@@ -126,9 +126,9 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 [Prompt Hunt](https://www.prompthunt.com/)（DALL·E和Midjourney绘画）：Prompt Hunt结合DALL·E和Midjourney技术，提供一款功能强大的绘画工具，让您能够轻松创作出令人惊艳的艺术作品。
 
-[PromptBase](https://promptbase.com/)（DALL·E,Midjourney,ChatGPT,Stable Diffusion绘画）
+[PromptBase](https://promptbase.com/)（DALL·E,Midjourney,ChatGPT,Stable Diffusion绘画）：利用了多种先进的人工智能技术，包括DALL·E、Midjourney、ChatGPT和Stable Diffusion绘画技术，使得PromptBase成为一个强大的内容生成与扩充平台。
 
-[Hypotenuse AI](https://app.hypotenuse.ai/invited)（文字内容和绘画）
+[Hypotenuse AI](https://app.hypotenuse.ai/invited)（文字内容和绘画）：一款综合性的人工智能工具，专注于自动化文字内容和绘画生成。它利用了多种AI技术，包括自然语言处理、图像生成和深度学习，为用户提供一站式的创作解决方案。
 
 ### 论文
 
@@ -160,31 +160,33 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 ### 文本内容
 
-[MagickPen](https://magickpen.com/)（文本内容）
+[MagickPen](https://magickpen.com/)（文本内容）: MagickPen是一款强大的文本生成工具，利用先进的自然语言处理技术帮助用户快速生成高质量的文章、博客和其他文本内容，提高写作效率。
 
-[OKaaaay](https://www.okaaaay.com/)（文本内容）
+[OKaaaay](https://www.okaaaay.com/)（文本内容）: OKaaaay是一款智能文本编辑器，通过AI技术为用户提供实时的写作建议，改善文本质量，让写作变得更加轻松。
 
-[Easy-Peasy.AI](http://easy-peasy.ai/)（文本内容）
+[Easy-Peasy.AI](http://easy-peasy.ai/)（文本内容）: Easy-Peasy.AI是一款便捷的AI写作助手，可以根据用户输入的关键词和需求，生成符合特定场景的文本内容，满足多样化的写作需求。
 
-[TypeAI](https://type.ai/)（文本内容）
+[TypeAI](https://type.ai/)（文本内容）: TypeAI是一款基于人工智能的在线文本生成工具，能够理解和模仿不同的写作风格，帮助用户创作出独特的文本内容，提高创意表现力。
 
-[copymatic](https://copymatic.ai/)（文本内容）
+[copymatic](https://copymatic.ai/)（文本内容）: Copymatic是一款专业的AI文案生成工具，通过分析用户提供的关键词，自动生成吸引人的广告文案、营销邮件等，助力提升市场推广效果。
 
-[AI Screenwriter](https://aiscreenwriter.com/)（改善剧本）
+[AI Screenwriter](https://aiscreenwriter.com/)（改善剧本）: AI Screenwriter是一款针对剧本创作的人工智能工具，可以分析现有剧本的结构和内容，为用户提供专业的改善建议，提升剧本质量和吸引力。
+
+
 
 ### 理解内容
 
-[BiliGPT](https://b.jimmylv.cn/)（自动提取B站视频的中心思想或总结）
+[BiliGPT](https://b.jimmylv.cn/)（自动提取B站视频的中心思想或总结）: BiliGPT是一款针对B站视频的人工智能工具，可以快速提取视频的中心思想或总结，帮助用户更有效地理解视频内容。
 
-[summarize.tech: AI](https://www.summarize.tech/)（自动获取YouTube视频的摘要或简介）
+[summarize.tech: AI](https://www.summarize.tech/)（自动获取YouTube视频的摘要或简介）：summarize.tech: AI是一款面向YouTube视频的智能摘要工具，能够自动获取视频的摘要或简介，让用户快速了解视频的关键信息。
 
-[SolidPoint](https://www.solidpoint.ai/)（自动提取视频的中心思想或总结）
+[SolidPoint](https://www.solidpoint.ai/)（自动提取视频的中心思想或总结）: SolidPoint是一款强大的视频分析工具，可以自动提取视频的中心思想或总结，帮助用户更高效地获取视频的核心信息。
 
-[Humata](https://www.humata.ai/)（提高阅读效率、总结价值内容）
+[Humata](https://www.humata.ai/)（提高阅读效率、总结价值内容）: Humata是一款专业的阅读效率提升工具，通过智能技术为用户提供精炼的内容总结，让用户在短时间内掌握文章的价值信息。
 
 ### 翻译
 
-[风声雨声](https://fsys.app/)
+[风声雨声](https://fsys.app/): 风声雨声是一款专业的AI翻译工具，支持多种语言之间的实时翻译，为用户提供高质量、准确的翻译结果，帮助用户克服语言障碍，实现跨语言的沟通。
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
  <text>敬请期待</text>
@@ -192,38 +194,38 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 ### 浏览器插件
 
-[Detect GPT](https://www.thomas.io/detect-gpt)（实时检查内容真实性）
+[Detect GPT](https://www.thomas.io/detect-gpt)（实时检查内容真实性）: Detect GPT是一款实时检查内容真实性的AI工具，能够识别由人工智能生成的文本，帮助用户辨别信息的可靠性。
 
-[Fluentify](https://www.fluentify.io/)（划字提问）
+[Fluentify](https://www.fluentify.io/)（划字提问）: Fluentify是一款智能划词提问工具，可以帮助用户在阅读时快速提出问题，提高阅读理解能力。
 
-[ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en)（总结论文并提供关键见解）
+[ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en)（总结论文并提供关键见解）: ArxivGPT是一款针对学术论文的AI工具，能够自动生成论文摘要并提供关键见解，帮助用户快速了解研究成果。
 
-[ShareGPT](https://sharegpt.com/)（免费GPT）
+[ShareGPT](https://sharegpt.com/)（免费GPT）: ShareGPT是一款免费的GPT平台，提供多种基于AI的文本生成服务，为用户提供便捷的内容创作解决方案。
 
-[HARPA AI](https://harpa.ai/)（网页自动化）
+[HARPA AI](https://harpa.ai/)（网页自动化）: HARPA AI是一款网页自动化工具，利用人工智能技术实现网站内容管理、数据抓取和自动化任务处理，提高工作效率。
 
-[Gmail AI](https://chatgptwriter.ai/)（谷歌邮箱生成邮件内容）
+[Gmail AI](https://chatgptwriter.ai/)（谷歌邮箱生成邮件内容）: Gmail AI是一款基于AI的谷歌邮箱邮件内容生成工具，可以自动生成专业、高质量的电子邮件文本，提高邮件撰写效率。
 
 
 ### AI营销
 
-[Ai Mailer](https://ai-mailer.com/)（生成邮件内容）
+[Ai Mailer](https://ai-mailer.com/)（生成邮件内容）: Ai Mailer是一款智能邮件内容生成工具，利用AI技术自动生成吸引人的电子邮件文本，提升邮件营销效果。
 
-[HoppyCopy](https://www.hoppycopy.co/)（邮箱营销）
+[HoppyCopy](https://www.hoppycopy.co/)（邮箱营销）: HoppyCopy是一款专业的邮箱营销工具，使用人工智能生成有针对性的邮件内容，帮助企业提高客户互动和转化率。
 
-[Peppertype](https://www.peppertype.ai/)（营销内容）
+[Peppertype](https://www.peppertype.ai/)（营销内容）: Peppertype是一款基于AI的营销内容生成工具，可以帮助用户快速创作出高质量的广告文案、社交媒体内容和博客文章。
 
-[MarketingBlocks](https://hey.marketingblocks.ai/)（营销内容）
+[MarketingBlocks](https://hey.marketingblocks.ai/)（营销内容）: MarketingBlocks是一款为营销人员量身打造的AI内容生成工具，提供高质量的营销文案、广告素材和策略建议。
 
-[Yaara](https://yaara.ai/)（营销内容）
+[Yaara](https://yaara.ai/)（营销内容）：Yaara是一款智能营销内容生成工具，利用AI技术为用户提供个性化的营销策略和文案建议，提高市场推广效果。
 
-[Shakespeare](https://www.shakespeare.ai/)（营销内容）
+[Shakespeare](https://www.shakespeare.ai/)（营销内容）: Shakespeare是一款基于AI的营销内容创作工具，可以为用户生成吸引人的文案、广告素材和社交媒体内容，提升品牌形象和市场竞争力。
 
-[copyai](https://www.copy.ai/)（营销内容）
+[copyai](https://www.copy.ai/)（营销内容）: copyai是一款专业的AI营销文案生成工具，通过分析用户提供的关键词，快速生成吸引人的广告文案、营销邮件和社交媒体内容。
 
-[SEO GPT](https://seovendor.co/)（网站SEO）
+[SEO GPT](https://seovendor.co/)（网站SEO）: SEO GPT是一款面向网站优化的AI工具，提供关键词分析、网站内容优化和排名监控等功能，助力提升网站在搜索引擎中的排名。
 
-[Yarnit](https://www.yarnit.app/)（PPT或海报）
+[Yarnit](https://www.yarnit.app/)（PPT或海报）: Yarnit是一款基于AI的PPT和海报制作工具，能够根据用户的需求快速生成精美的演示文稿和宣传海报，提升视觉效果和传播力。
 
 
 ## GPT-4
@@ -232,20 +234,7 @@ ChatGPT工具和资料汇总学习，持续更新......
 【PDF资料】[GPT-4-震撼发布,AI算法之巅.pdf](OpenAI-GPT4/GPT-4震撼发布-AI算法之巅.pdf)  
 【PDF资料】[GPT-4-技术报告-中文.pdf](OpenAI-GPT4/GPT-4技术报告.pdf)  
 【PDF资料】[GPT-4 Technical Report.pdf](OpenAI-GPT4/gpt-4.pdf)  
-
-## 百度-文心一言
-
-【PDF资料】[华泰证券：文心一言：技术与能力拆解.pdf](百度-文心一心/华泰证券：文心一言：技术与能力拆解.pdf)  
-【PDF资料】[华西证券：百度文心一言畅想.pdf](百度-文心一心/华西证券：百度文心一言畅想.pdf)  
-【PDF资料】[开源证券：百度文心一言展望.pdf](百度-文心一心/开源证券：百度文心一言展望.pdf)  
-【PDF资料】[首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf](百度-文心一心/首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf)  
-【PDF资料】[ChatGPT系列—百度文心一言解读20230315.pdf](百度-文心一心/ChatGPT系列—百度文心一言解读20230315.pdf)  
-【PDF资料】[文心一言测试指引.pdf](百度-文心一心/文心一言测试指引.pdf)
-
-
-## 论文
-
-【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
+【OpenAI官网文章】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
 【ChatGPTPro】[ChatGPTPro](https://chatgpt.pro/)  
 【GPT-1论文】[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 【GPT-2论文】[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
@@ -257,10 +246,20 @@ ChatGPT工具和资料汇总学习，持续更新......
 【LaMda】[LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)
 
 
+## 百度-文心一言
+
+【PDF资料】[华泰证券：文心一言：技术与能力拆解.pdf](百度-文心一心/华泰证券：文心一言：技术与能力拆解.pdf)  
+【PDF资料】[华西证券：百度文心一言畅想.pdf](百度-文心一心/华西证券：百度文心一言畅想.pdf)  
+【PDF资料】[开源证券：百度文心一言展望.pdf](百度-文心一心/开源证券：百度文心一言展望.pdf)  
+【PDF资料】[首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf](百度-文心一心/首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf)  
+【PDF资料】[ChatGPT系列—百度文心一言解读20230315.pdf](百度-文心一心/ChatGPT系列—百度文心一言解读20230315.pdf)  
+【PDF资料】[文心一言测试指引.pdf](百度-文心一心/文心一言测试指引.pdf)
+
+
 </details>
 
 ## 资料
-
+【PDF资料】[哈尔滨工业大学-ChatGPT调研报告](OpenAI-ChatGPT/230311-哈尔滨工业大学-ChatGPT调研报告.pdf)
 【PDF资料】[ChatGPT-真格基金分享.pdf](OpenAI-ChatGPT-真格基金分享.pdf)  
 【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](OpenAI-ChatGPT/腾讯研究院AIGC发展趋势报告2023.pdf)  
 【PDF资料】[从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf](OpenAI-ChatGPT/从CHAT_GPT到生成式AI.pdf)  
