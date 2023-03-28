@@ -10,9 +10,9 @@ ChatGPT工具和资料汇总学习，持续更新......
 诚邀您加入ChatGPT交流社群，与AI领域专家及来自不同行业的ChatGPT热衷者共同探讨、碰撞思想！无论您是行业专家还是技术爱好者，我们都热烈欢迎您的加入！
 
 
-| 二维码加群                                        | 公众号（回复"交流群"）                                      |                 
-|----------------------------------------------|---------------------------------------------------|
-| <img src="Picture/Chat9.jpeg" width="300" /> | <img src="Picture/qrcode_MLIOT.jpg" width="200"/> |
+| 二维码加群                                            | 公众号（回复"交流群"）                             |加入星球(更多优质内容)                                  |    
+|--------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| <img src="Picture/ChatGroup.jpeg" width="300" /> | <img src="Picture/qrcode_MLIOT.jpg" width="200"/> |<img src="Picture/训练营优惠券.jpeg" width="250" /> |
 
 [//]: # (| 二维码加群                                        | 机器学习与物联网公众号（回复"交流群"）                              | 拉你入群&#40;备注github&#41;                            )
 
@@ -255,7 +255,7 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 ## 资料
 【PDF资料】[哈尔滨工业大学-ChatGPT调研报告](OpenAI-ChatGPT/230311-哈尔滨工业大学-ChatGPT调研报告.pdf)
-
+【PDF资料】[154页微软GPT研究报告（全中文版）](OpenAI-ChatGPT/154页微软GPT研究报告（全中文版）.pdf)
 【PDF资料】[ChatGPT-真格基金分享.pdf](OpenAI-ChatGPT-真格基金分享.pdf)  
 【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](OpenAI-ChatGPT/腾讯研究院AIGC发展趋势报告2023.pdf)  
 【PDF资料】[从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf](OpenAI-ChatGPT/从CHAT_GPT到生成式AI.pdf)  
