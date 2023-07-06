@@ -125,6 +125,7 @@ ChatGPT工具和资料汇总学习，持续更新......
 [PromptBase](https://promptbase.com/)（DALL·E,Midjourney,ChatGPT,Stable Diffusion绘画）：利用了多种先进的人工智能技术，包括DALL·E、Midjourney、ChatGPT和Stable Diffusion绘画技术，使得PromptBase成为一个强大的内容生成与扩充平台。
 
 [Hypotenuse AI](https://app.hypotenuse.ai/invited)（文字内容和绘画）：一款综合性的人工智能工具，专注于自动化文字内容和绘画生成。它利用了多种AI技术，包括自然语言处理、图像生成和深度学习，为用户提供一站式的创作解决方案。
+[DemoGPT](https://github.com/melih-unsal/DemoGPT) : 🧩 DemoGPT 使您只需使用提示即可创建快速演示。
 
 ### 论文
 
